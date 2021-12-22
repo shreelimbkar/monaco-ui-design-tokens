@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 22 Dec 2021 21:02:03 GMT
+-->
+<resources>
+  <color name="brand_white">#ffffff</color><!-- White #FFFFFF -->
+  <color name="brand_off_white">#f7f5f0</color><!-- Brand Off-White #F7F5F0 -->
+  <color name="brand_red">#e74536</color><!-- Brand Red #E74536 -->
+  <color name="brand_yellow">#ffb511</color><!-- Brand Yellow #FFB511 -->
+  <color name="brand_dark_blue">#0f1941</color><!-- Brand Dark-Blue #0F1941 -->
+  <color name="brand_turquoise">#6ba5b4</color><!-- Brand Turquoise #6BA5B4 -->
+  <color name="brand_blue">#2175d9</color><!-- Brand Blue #2175D9 -->
+  <color name="color_off_white_50">#fbfaf7</color><!-- Off-white-50 #FBFAF7 -->
+  <color name="color_off_white_30">#fdfcfb</color><!-- Off-white-30 #FDFCFB -->
+  <color name="color_off_white_80">#f9f7f3</color><!-- Off-white-80 #F9F7F3 -->
+  <color name="color_off_white_105">#ebe9e4</color><!-- Off-white-105 #EBE9E4 -->
+  <color name="color_off_white_110">#dedcd8</color><!-- Off-white-110 #DEDCD8 -->
+  <color name="color_dark_blue_10">#d9dade</color><!-- Dark-Blue-10 #D9DADE -->
+  <color name="color_dark_blue_20">#c5c7cf</color><!-- Dark-Blue-20 #C5C7CF -->
+  <color name="color_dark_blue_30">#acafbb</color><!-- Dark-Blue-30 #ACAFBB -->
+  <color name="color_dark_blue_50">#70758b</color><!-- Dark-Blue-50 #70758B -->
+  <color name="color_dark_blue_70">#525975</color><!-- Dark-Blue-70 #525975 -->
+  <color name="color_dark_blue_80">#3c4464</color><!-- Dark-Blue-80 #3C4464 -->
+  <color name="color_dark_blue_180">#03050d</color><!-- Dark-Blue-180 #03050D -->
+  <color name="color_positive_10">#f0f6f7</color><!-- Positive-10 #F0F6F7 -->
+  <color name="color_positive">#31aa74</color><!-- Positive #31AA74 -->
+  <color name="color_positive_110">#2c855e</color><!-- Positive-110 #2C855E -->
+  <color name="color_negative_10">#fef6f6</color><!-- Negative-10 #FEF6F6 -->
+  <color name="color_negative">#da3737</color><!-- Negative #DA3737 -->
+  <color name="color_blue_130">#175197</color><!-- Blue-130 #175197 -->
+  <color name="color_blue_80">#4d91e1</color><!-- Blue-80 #4D91E1 -->
+  <color name="color_blue_50">#a6c8f0</color><!-- Blue-50 #A6C8F0 -->
+  <color name="color_blue_30">#bcd6f4</color><!-- Blue-30 #BCD6F4 -->
+  <color name="color_blue_20">#d3e3f7</color><!-- Blue-20 #D3E3F7 -->
+  <color name="color_blue_10">#e8f1fb</color><!-- Blue-10 #E8F1FB -->
+  <color name="color_grey_20">#f2f2f2</color><!-- Grey-20 #F2F2F2 -->
+  <color name="color_grey_10">#f7f7f7</color><!-- Grey-10 #F7F7F7 -->
+  <color name="color_grey_170">#414141</color><!-- Grey-170 #414141 -->
+  <color name="color_grey">#d7d7d7</color><!-- Grey #D7D7D7 -->
+  <color name="color_yellow_110">#e5a30f</color><!-- Yellow-110 #E5A30F -->
+  <color name="color_yellow_80">#ffc441</color><!-- Yellow-80 #FFC441 -->
+  <color name="color_yellow_50">#ffda88</color><!-- Yellow-50 #FFDA88 -->
+  <color name="color_yellow_30">#ffe9b8</color><!-- Yellow-30 #FFE9B8 -->
+  <color name="color_yellow_20">#fff0cf</color><!-- Yellow-20 #FFF0CF -->
+  <color name="color_yellow_10">#fff8e7</color><!-- Yellow-10 #FFF8E7 -->
+  <color name="color_red_110">#d03e31</color><!-- Red-110 #D03E31 -->
+  <color name="color_red_80">#ec6a5e</color><!-- Red-80 #EC6A5E -->
+  <color name="color_red_50">#f3a29b</color><!-- Red-50 #F3A29B -->
+  <color name="color_red_30">#f8c7c3</color><!-- Red-30 #F8C7C3 -->
+  <color name="color_red_20">#fadad7</color><!-- Red-20 #FADAD7 -->
+  <color name="color_red_10">#fdeceb</color><!-- Red-10 #FDECEB -->
+  <color name="color_turquoise_10">#f0f6f7</color><!-- Turquoise-10 #F0F6F7 -->
+  <color name="color_turquoise_20">#e1edf0</color><!-- Turquoise-20 #E1EDF0 -->
+  <color name="color_turquoise_30">#d3e4e9</color><!-- Turquoise-30 #D3E4E9 -->
+  <color name="color_turquoise_50">#b5d2d9</color><!-- Turquoise-50 #B5D2D9 -->
+  <color name="color_turquoise_80">#89b7c3</color><!-- Turquoise-80 #89B7C3 -->
+  <color name="color_turquoise_110">#6397a9</color><!-- Turquoise-110 #3D5F7A -->
+  <color name="color_turquoise_120">#59899d</color><!-- Turquoise-120 #59899D -->
+  <color name="color_turquoise_130">#4f7b92</color><!-- Turquoise-130 #4F7B92 -->
+  <color name="color_turquoise_140">#466d86</color><!-- Turquoise-140 #466D86 -->
+  <color name="color_turquoise_150">#3d5f7a</color><!-- Turquoise-150 #3D5F7A -->
+  
+</resources>

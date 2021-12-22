@@ -1,0 +1,28 @@
+{
+  "borderRadius": {
+    "xl": {
+      "value": "35px",
+      "type": "border"
+    },
+    "l": {
+      "value": "25px",
+      "type": "border"
+    },
+    "m": {
+      "value": "15px",
+      "type": "border"
+    },
+    "m2": {
+      "value": "20px",
+      "type": "border"
+    },
+    "s": {
+      "value": "5px",
+      "type": "border"
+    },
+    "xs": {
+      "value": "2px",
+      "type": "border"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kerning": {
+    "xl": {
+      "value": "2px",
+      "type": "kerning"
+    },
+    "l": {
+      "value": "1.5px",
+      "type": "kerning"
+    },
+    "m": {
+      "value": "1px",
+      "type": "kerning"
+    },
+    "s": {
+      "value": "0.5px",
+      "type": "kerning"
+    },
+    "default": {
+      "value": "0px",
+      "type": "kerning"
+    },
+    "negM": {
+      "value": "-1px",
+      "type": "kerning"
+    }
+  }
+}

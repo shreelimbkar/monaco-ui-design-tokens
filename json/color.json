@@ -1,0 +1,411 @@
+{
+  "color": {
+    "offWhite-50": {
+      "value": "rgba(251, 250, 247, 1)",
+      "type": "color",
+      "comment": "Off-white-50 #FBFAF7",
+      "ratio": "20.11:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "offWhite-30": {
+      "value": "rgba(253, 252, 251, 1)",
+      "type": "color",
+      "comment": "Off-white-30 #FDFCFB",
+      "ratio": "20.49:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "offWhite-80": {
+      "value": "rgba(249, 247, 243, 1)",
+      "type": "color",
+      "comment": "Off-white-80 #F9F7F3",
+      "ratio": "19.62:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "offWhite-105": {
+      "value": "rgba(235, 233, 228, 1)",
+      "type": "color",
+      "comment": "Off-white-105 #EBE9E4",
+      "ratio": "17.3:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "offWhite-110": {
+      "value": "rgba(222, 220, 216, 1)",
+      "type": "color",
+      "comment": "Off-white-110 #DEDCD8",
+      "ratio": "15.33:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "darkBlue-10": {
+      "value": "rgba(217, 218, 222, 1)",
+      "type": "color",
+      "comment": "Dark-Blue-10 #D9DADE",
+      "ratio": "15.03:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "darkBlue-20": {
+      "value": "rgba(197, 199, 207, 1)",
+      "type": "color",
+      "comment": "Dark-Blue-20 #C5C7CF",
+      "ratio": "12.44:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "darkBlue-30": {
+      "value": "rgba(172, 175, 187, 1)",
+      "type": "color",
+      "comment": "Dark-Blue-30 #ACAFBB",
+      "ratio": "9.6:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "darkBlue-50": {
+      "value": "rgba(112, 117, 139, 1)",
+      "type": "color",
+      "comment": "Dark-Blue-50 #70758B",
+      "ratio": "AA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AA",
+      "lightRatio": "4.62:1",
+      "lightAgainst": "rgba(255, 255, 255, 255)",
+      "lightCompliance": "4.54:1"
+    },
+    "darkBlue-70": {
+      "value": "rgba(82, 89, 117, 1)",
+      "type": "color",
+      "comment": "Dark-Blue-70 #525975",
+      "ratio": "6:89:1",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AA"
+    },
+    "darkBlue-80": {
+      "value": "rgba(60, 68, 100, 1)",
+      "type": "color",
+      "comment": "Dark-Blue-80 #3C4464",
+      "ratio": "9:53:1",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AAA"
+    },
+    "darkBlue-180": {
+      "value": "rgba(3, 5, 13, 1)",
+      "type": "color",
+      "comment": "Dark-Blue-180 #03050D",
+      "ratio": "20.36:1",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AAA"
+    },
+    "positive10": {
+      "value": "rgba(240, 246, 247, 1)",
+      "type": "color",
+      "comment": "Positive-10 #F0F6F7",
+      "ratio": "19.23:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "positive": {
+      "value": "rgba(49, 170, 116, 1)",
+      "type": "color",
+      "comment": "Positive #31AA74",
+      "ratio": "7:13:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "positive110": {
+      "value": "rgba(44, 133, 94, 1)",
+      "type": "color",
+      "comment": "Positive-110 #2C855E",
+      "ratio": "AA",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AAA",
+      "lightRatio": "4:4:1",
+      "lightAgainst": "rgba(0, 0, 0, 255)",
+      "lightCompliance": "4.64:1"
+    },
+    "negative10": {
+      "value": "rgba(254, 246, 246, 1)",
+      "type": "color",
+      "comment": "Negative-10 #FEF6F6",
+      "ratio": "19.72:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "negative": {
+      "value": "rgba(218, 55, 55, 1)",
+      "type": "color",
+      "comment": "Negative #DA3737",
+      "ratio": "AA",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AA",
+      "lightRatio": "4.58:1",
+      "lightAgainst": "rgba(0, 0, 0, 255)",
+      "lightCompliance": "4.58:1"
+    },
+    "blue130": {
+      "value": "rgba(23, 81, 151, 1)",
+      "type": "color",
+      "comment": "Blue-130 #175197",
+      "ratio": "AAA",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "7.89:1"
+    },
+    "blue80": {
+      "value": "rgba(77, 145, 225, 1)",
+      "type": "color",
+      "comment": "Blue-80 #4D91E1",
+      "ratio": "6.45:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "3.25:1",
+      "lightRatio": "AAA",
+      "lightAgainst": "rgba(255, 255, 255, 255)",
+      "lightCompliance": "AA"
+    },
+    "blue50": {
+      "value": "rgba(166, 200, 240, 1)",
+      "type": "color",
+      "comment": "Blue-50 #A6C8F0",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "12.14:1"
+    },
+    "blue30": {
+      "value": "rgba(188, 214, 244, 1)",
+      "type": "color",
+      "comment": "Blue-30 #BCD6F4",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "14.06:1"
+    },
+    "blue20": {
+      "value": "rgba(211, 227, 247, 1)",
+      "type": "color",
+      "comment": "Blue-20 #D3E3F7",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "16.1:1"
+    },
+    "blue10": {
+      "value": "rgba(232, 241, 251, 1)",
+      "type": "color",
+      "comment": "Blue-10 #E8F1FB",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "18.4:1"
+    },
+    "grey20": {
+      "value": "rgba(242, 242, 242, 1)",
+      "type": "color",
+      "comment": "Grey-20 #F2F2F2",
+      "ratio": "18.75:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "grey10": {
+      "value": "rgba(247, 247, 247, 1)",
+      "type": "color",
+      "comment": "Grey-10 #F7F7F7",
+      "ratio": "19.6:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "grey170": {
+      "value": "rgba(65, 65, 65, 1)",
+      "type": "color",
+      "comment": "Grey-170 #414141",
+      "ratio": "10.2:1",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AAA"
+    },
+    "grey": {
+      "value": "rgba(215, 215, 215, 1)",
+      "type": "color",
+      "comment": "Grey #D7D7D7",
+      "ratio": "14.59:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "yellow110": {
+      "value": "rgba(229, 163, 15, 1)",
+      "type": "color",
+      "comment": "Yellow-110 #E5A30F",
+      "ratio": "9.57:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "yellow80": {
+      "value": "rgba(255, 196, 65, 1)",
+      "type": "color",
+      "comment": "Yellow-80 #FFC441",
+      "ratio": "13.22:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "yellow50": {
+      "value": "rgba(255, 218, 136, 1)",
+      "type": "color",
+      "comment": "Yellow-50 #FFDA88",
+      "ratio": "15.63:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "yellow30": {
+      "value": "rgba(255, 233, 184, 1)",
+      "type": "color",
+      "comment": "Yellow-30 #FFE9B8",
+      "ratio": "17.59:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "yellow20": {
+      "value": "rgba(255, 240, 207, 1)",
+      "type": "color",
+      "comment": "Yellow-20 #FFF0CF",
+      "ratio": "18.61:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "yellow10": {
+      "value": "rgba(255, 248, 231, 1)",
+      "type": "color",
+      "comment": "Yellow-10 #FFF8E7",
+      "ratio": "19.83:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "red110": {
+      "value": "rgba(208, 62, 49, 1)",
+      "type": "color",
+      "comment": "Red-110 #D03E31",
+      "ratio": "4.75:1",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AA"
+    },
+    "red80": {
+      "value": "rgba(236, 106, 94, 1)",
+      "type": "color",
+      "comment": "Red-80 #EC6A5E",
+      "ratio": "6.78:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AA"
+    },
+    "red50": {
+      "value": "rgba(243, 162, 155, 1)",
+      "type": "color",
+      "comment": "Red-50 #F3A29B",
+      "ratio": "10.45:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "red30": {
+      "value": "rgba(248, 199, 195, 1)",
+      "type": "color",
+      "comment": "Red-30 #F8C7C3",
+      "ratio": "13.94:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "red20": {
+      "value": "rgba(250, 218, 215, 1)",
+      "type": "color",
+      "comment": "Red-20 #FADAD7",
+      "ratio": "16.07:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "red10": {
+      "value": "rgba(253, 236, 235, 1)",
+      "type": "color",
+      "comment": "Red-10 #FDECEB",
+      "ratio": "19.83:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "turquoise10": {
+      "value": "rgba(240, 246, 247, 1)",
+      "type": "color",
+      "comment": "Turquoise-10 #F0F6F7",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "19.2:1"
+    },
+    "turquoise20": {
+      "value": "rgba(225, 237, 240, 1)",
+      "type": "color",
+      "comment": "Turquoise-20 #E1EDF0",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "17.6:1"
+    },
+    "turquoise30": {
+      "value": "rgba(211, 228, 233, 1)",
+      "type": "color",
+      "comment": "Turquoise-30 #D3E4E9",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "16.1:1"
+    },
+    "turquoise50": {
+      "value": "rgba(181, 210, 217, 1)",
+      "type": "color",
+      "comment": "Turquoise-50 #B5D2D9",
+      "ratio": "AAA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "13.2:1"
+    },
+    "turquoise80": {
+      "value": "rgba(137, 183, 195, 1)",
+      "type": "color",
+      "comment": "Turquoise-80 #89B7C3",
+      "ratio": "AAA",
+      "against": "rgba(15, 25, 65, 255)",
+      "compliance": "9.62:1"
+    },
+    "turquoise110": {
+      "value": "rgba(99, 151, 169, 1)",
+      "type": "color",
+      "comment": "Turquoise-110 #3D5F7A",
+      "ratio": "AA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "6.53:1"
+    },
+    "turquoise120": {
+      "value": "rgba(89, 137, 157, 1)",
+      "type": "color",
+      "comment": "Turquoise-120 #59899D",
+      "ratio": "AA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "5.48:1"
+    },
+    "turquoise130": {
+      "value": "rgba(79, 123, 146, 1)",
+      "type": "color",
+      "comment": "Turquoise-130 #4F7B92",
+      "ratio": "4.58:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "4.58:1",
+      "lightRatio": "AA",
+      "lightAgainst": "rgba(255, 255, 255, 255)",
+      "lightCompliance": "AA"
+    },
+    "turquoise140": {
+      "value": "rgba(70, 109, 134, 1)",
+      "type": "color",
+      "comment": "Turquoise-140 #466D86",
+      "ratio": "AA",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "5.53:1"
+    },
+    "turquoise150": {
+      "value": "rgba(61, 95, 122, 1)",
+      "type": "color",
+      "comment": "Turquoise-150 #3D5F7A",
+      "ratio": "AA",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "6.73:1"
+    }
+  }
+}

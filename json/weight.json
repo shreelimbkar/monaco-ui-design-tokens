@@ -1,0 +1,32 @@
+{
+  "weight": {
+    "extrabold": {
+      "value": 900,
+      "type": "typography"
+    },
+    "bold": {
+      "value": 700,
+      "type": "typography"
+    },
+    "medium": {
+      "value": 600,
+      "type": "typography"
+    },
+    "regular": {
+      "value": 400,
+      "type": "typography"
+    },
+    "light": {
+      "value": 300,
+      "type": "typography"
+    },
+    "bolditalic": {
+      "value": 700,
+      "type": "typography"
+    },
+    "lightitalic": {
+      "value": 300,
+      "type": "typography"
+    }
+  }
+}

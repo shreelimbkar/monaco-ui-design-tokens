@@ -1,0 +1,12 @@
+{
+  "font": {
+    "merriweather": {
+      "value": "\"Merriweather\", sans-serif",
+      "type": "typography"
+    },
+    "lato": {
+      "value": "\"Lato\", sans-serif",
+      "type": "typography"
+    }
+  }
+}

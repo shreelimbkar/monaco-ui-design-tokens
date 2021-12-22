@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 22 Dec 2021 21:02:03 GMT
+-->
+<resources>
+  <dimen name="border_radius_xl">35dp</dimen>
+  <dimen name="border_radius_l">25dp</dimen>
+  <dimen name="border_radius_m">15dp</dimen>
+  <dimen name="border_radius_m_2">20dp</dimen>
+  <dimen name="border_radius_s">5dp</dimen>
+  <dimen name="border_radius_xs">2dp</dimen>
+  <dimen name="border_size_s">2px</dimen>
+  <dimen name="border_size_m">3px</dimen>
+  <dimen name="border_size_l">4px</dimen>
+  <dimen name="border_size_xs">1px</dimen>
+  <dimen name="kerning_xl">2</dimen>
+  <dimen name="kerning_l">1.5</dimen>
+  <dimen name="kerning_m">1</dimen>
+  <dimen name="kerning_s">0.5</dimen>
+  <dimen name="kerning_default">0</dimen>
+  <dimen name="kerning_neg_m">-1</dimen>
+  <dimen name="line_height_xs">16dp</dimen>
+  <dimen name="line_height_s">18dp</dimen>
+  <dimen name="line_height_m">26dp</dimen>
+  <dimen name="line_height_m_2">22dp</dimen>
+  <dimen name="line_height_l">30dp</dimen>
+  <dimen name="line_height_xl">36dp</dimen>
+  <dimen name="line_height_xxl">50dp</dimen>
+  <dimen name="spacing_xs">5dp</dimen>
+  <dimen name="spacing_s">10dp</dimen>
+  <dimen name="spacing_m">20dp</dimen>
+  <dimen name="spacing_l">40dp</dimen>
+  <dimen name="spacing_xl">80dp</dimen>
+  <dimen name="spacing_xxl">120dp</dimen>
+  
+</resources>

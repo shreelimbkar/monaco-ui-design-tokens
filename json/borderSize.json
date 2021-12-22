@@ -1,0 +1,20 @@
+{
+  "borderSize": {
+    "s": {
+      "value": "2px",
+      "type": "border"
+    },
+    "m": {
+      "value": "3px",
+      "type": "border"
+    },
+    "l": {
+      "value": "4px",
+      "type": "border"
+    },
+    "xs": {
+      "value": "1px",
+      "type": "border"
+    }
+  }
+}

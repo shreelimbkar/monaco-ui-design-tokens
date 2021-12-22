@@ -1,0 +1,59 @@
+{
+  "fontSize": {
+    "b3": {
+      "value": "0.75rem",
+      "type": "typography",
+      "comment": "12px"
+    },
+    "b2": {
+      "value": "1rem",
+      "type": "typography",
+      "comment": "16px"
+    },
+    "b1": {
+      "value": "1.125rem",
+      "type": "typography",
+      "comment": "18px"
+    },
+    "s4": {
+      "value": "0.75rem",
+      "type": "typography",
+      "comment": "12px"
+    },
+    "s3": {
+      "value": "0.875rem",
+      "type": "typography",
+      "comment": "14px"
+    },
+    "s2": {
+      "value": "1rem",
+      "type": "typography",
+      "comment": "16px"
+    },
+    "s2b": {
+      "value": "1.125rem",
+      "type": "typography",
+      "comment": "18px"
+    },
+    "s1": {
+      "value": "1.625rem",
+      "type": "typography",
+      "comment": "26px"
+    },
+    "s1b": {
+      "value": "2.5rem",
+      "type": "typography",
+      "comment": "40px"
+    },
+    "h2": {
+      "value": "1.25rem",
+      "type": "typography",
+      "comment": "20px"
+    },
+    "h1": {
+      "value": "1.875rem",
+      "type": "typography",
+      "comment": "30px"
+    }
+  }
+}

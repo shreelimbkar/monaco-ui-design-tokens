@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 22 Dec 2021 21:02:03 GMT
+-->
+<resources>
+  <dimen name="font_size_b_3">12sp</dimen><!-- 12px -->
+  <dimen name="font_size_b_2">16sp</dimen><!-- 16px -->
+  <dimen name="font_size_b_1">18sp</dimen><!-- 18px -->
+  <dimen name="font_size_s_4">12sp</dimen><!-- 12px -->
+  <dimen name="font_size_s_3">14sp</dimen><!-- 14px -->
+  <dimen name="font_size_s_2">16sp</dimen><!-- 16px -->
+  <dimen name="font_size_s_2_b">18sp</dimen><!-- 18px -->
+  <dimen name="font_size_s_1">26sp</dimen><!-- 26px -->
+  <dimen name="font_size_s_1_b">40sp</dimen><!-- 40px -->
+  <dimen name="font_size_h_2">20sp</dimen><!-- 20px -->
+  <dimen name="font_size_h_1">30sp</dimen><!-- 30px -->
+  
+</resources>

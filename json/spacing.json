@@ -1,0 +1,28 @@
+{
+  "spacing": {
+    "xs": {
+      "value": "0.3125em",
+      "type": "layout"
+    },
+    "s": {
+      "value": "0.625em",
+      "type": "layout"
+    },
+    "m": {
+      "value": "1.25em",
+      "type": "layout"
+    },
+    "l": {
+      "value": "2.5em",
+      "type": "layout"
+    },
+    "xl": {
+      "value": "5em",
+      "type": "layout"
+    },
+    "xxl": {
+      "value": "7.5em",
+      "type": "layout"
+    }
+  }
+}

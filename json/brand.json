@@ -1,0 +1,66 @@
+{
+  "brand": {
+    "white": {
+      "value": "rgba(255, 255, 255, 1)",
+      "type": "color",
+      "comment": "White #FFFFFF",
+      "ratio": "21:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "offWhite": {
+      "value": "rgba(247, 245, 240, 1)",
+      "type": "color",
+      "comment": "Brand Off-White #F7F5F0",
+      "ratio": "19.27:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "red": {
+      "value": "rgba(231, 69, 54, 1)",
+      "type": "color",
+      "comment": "Brand Red #E74536",
+      "ratio": "AA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AA",
+      "lightRatio": "5.3:1",
+      "lightAgainst": "rgba(255, 255, 255, 255)",
+      "lightCompliance": "3.96:1"
+    },
+    "yellow": {
+      "value": "rgba(255, 181, 17, 1)",
+      "type": "color",
+      "comment": "Brand Yellow #FFB511",
+      "ratio": "11.86:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "darkBlue": {
+      "value": "rgba(15, 25, 65, 1)",
+      "type": "color",
+      "comment": "Brand Dark-Blue #0F1941",
+      "ratio": "16.99:1",
+      "against": "rgba(255, 255, 255, 255)",
+      "compliance": "AAA"
+    },
+    "turquoise": {
+      "value": "rgba(107, 165, 180, 1)",
+      "type": "color",
+      "comment": "Brand Turquoise #6BA5B4",
+      "ratio": "7.66:1",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AAA"
+    },
+    "blue": {
+      "value": "rgba(33, 117, 217, 1)",
+      "type": "color",
+      "comment": "Brand Blue #2175D9",
+      "ratio": "AA",
+      "against": "rgba(0, 0, 0, 255)",
+      "compliance": "AA",
+      "lightRatio": "4.61:1",
+      "lightAgainst": "rgba(255, 255, 255, 255)",
+      "lightCompliance": "4.55:1"
+    }
+  }
+}
